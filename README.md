@@ -25,7 +25,8 @@
 ---
 💡 **提示：** 点击上方的按钮将直接从官方服务器安全下载最新版本。如果在安装或下载过程中遇到网络问题，请尝试刷新页面或检查网络代理设置。
 
-![4k-video-downloader](https://image-static.segmentfault.com/401/062/4010622292-5fd08b71f3a0c)
+<img width="800" height="503" alt="4kdownloader" src="https://github.com/user-attachments/assets/285bb9c3-8310-48d7-ad78-4db15ab9031f" />
+
 
 ---
 
@@ -45,19 +46,23 @@
 
 第二步：然后，前往YouTube, Facebook, Twitter, Instagram, Bilibili, TED或其他视频网站，找到你喜欢的视频，点击封面复制其链接地址。
 
-![copy-video-url](https://segmentfault.com/img/remote/1460000039800214)
+<img width="1098" height="702" alt="4k-video-downloader (1)" src="https://github.com/user-attachments/assets/f3592688-5df7-4da9-bf74-2f66378215b6" />
+
 
 第三步：打开4K Video Downloader 软件，将将刚才复制的链接粘贴到程序里进行解析。链接解析后，会有一个弹框，这时你可以选择你想要的分辨率 比如720P, 1080P, 1440P, 2160P, 4320P, 以及是否下载字幕，封面，或者将视频转换成MP3格式。 
 
-![select-video-resolution](https://segmentfault.com/img/remote/1460000039800213)
+<img width="1098" height="647" alt="4k-video-downloader (2)" src="https://github.com/user-attachments/assets/87f515c1-e7a4-4a2f-9d1c-47558ee3509b" />
+
 
 第四步：点击弹窗最下方的 "下载" 按钮，这时4K Video Downloader软件会自动开始下载YouTube视频，下载过程中你可以继续粘贴其他链接进行解析。 
 
-![download-youtube-videos](https://segmentfault.com/img/remote/1460000039800211)
+<img width="1098" height="647" alt="4k-video-downloader (3)" src="https://github.com/user-attachments/assets/cfeaa3dd-77ca-46e0-902a-116b67d221c4" />
+
 
 第五步：播放视频! 油管视频下载完后，会自动保存到“已完成”界面以及本地的视频文件夹中，可直接观看和分享。如果需要的话，你可以点击视频旁边的转换按钮，将视频转换成MP3，MP4，MOV，AVI等格式以便在其他设备上播放。 
 
-![play-youtube-videos](https://segmentfault.com/img/remote/1460000039800212)
+<img width="1098" height="647" alt="4k-video-downloader (4)" src="https://github.com/user-attachments/assets/7f10e299-eac3-48a6-85c8-f5da4f36616e" />
+
 
 说明：4K Video Downloader 专注[下载4K/8K超高清60帧视频](https://www.4kvideodownloader.com/tutorial/download-4k-8k-videos/)，能够在下载时将音频与视频压制到同一组数据里, 因此, YouTube视频下载后，基本都是原始质量, 不会出现视频模糊或者音画分离的情况, 你也来试一下吧！
 
